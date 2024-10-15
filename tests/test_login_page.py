@@ -3,4 +3,5 @@ def test_login():
     # Enter email
     # Enter password
     # Click submit
+    # Verify i was logged
     pass
